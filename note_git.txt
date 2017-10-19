@@ -1,0 +1,15 @@
+Basic commands:
+
+
+git init: initialize local git repository
+git add <file>: add file(s) to index (staged files)
+git status: check status of working tree (files / folders staged, committed, etc)
+git commit: commit changes in index (staged file)
+
+git push: push to remote repository
+git pull: pull latest from remote repository
+git clone: clone / copy repo into a new directory
+
+- - - - - - - - - - - - - - -
+sudo apt-get install git
+- - - - - - - - - - - - - - -
